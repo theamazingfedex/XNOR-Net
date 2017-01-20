@@ -1,5 +1,5 @@
-##XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.
-
+#XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.
+##The intention of this fork is to create a thin wrapper for easy use in python.
 This is the Torch 7.0 implementation of XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.
 
 ### Citation 
